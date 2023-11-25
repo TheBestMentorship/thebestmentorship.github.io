@@ -1,0 +1,20 @@
+body {
+    font-size: 1.2em;
+
+}
+
+.btn, .card {
+    border-radius: 7px; 
+}
+
+.profile-picture {
+    max-width: 150px;
+    min-width: 150px;
+    padding: 3px;
+    border: 1px solid silver;
+    border-radius: 200px;
+}
+
+.navbar-toggler {
+    border: none;
+}
